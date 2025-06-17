@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayush Bhansali
+# 👋 Hi, I'm Ayush
 
 I'm a high school student and I enjoy building real-world projects 
 
