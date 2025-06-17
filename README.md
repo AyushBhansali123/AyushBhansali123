@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Bhansali
 
-<!--
-**AyushBhansali123/AyushBhansali123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student and I enjoy building real-world projects 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work On
+
+- 🤖 Machine learning (classification, regression, time series)
+- 📱 Wearable sensor projects (Apple Watch, IMU data)
+- 🧪 Data science workflows and experimentation
+---
+
+## 🚧 Current Projects
+
+- `Smartwatch-Golf-Swing-Detection`: Detects if a full golf swing occurred
+- `Smartwatch-Golf-Club-Speed`: Predicts club speed from wrist motion
+-  And a few more :)
